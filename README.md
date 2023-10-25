@@ -28,6 +28,7 @@ Introdução à redes, hardware, virtualização e programação.
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40"/>
 </a>
+
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" width="40"/>
 </a>
