@@ -26,8 +26,12 @@ Introdução à redes, hardware, virtualização e programação.
 ## Virtualização
 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40"/>
+</a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg" alt="debian" width="40"/>
 </a>
+
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
