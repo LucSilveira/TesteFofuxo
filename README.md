@@ -4,5 +4,5 @@ Introdução à redes, hardware, virtualização e programação.
 <br>
 
 <center>
-  ## Sistemas Operacionais
+## Sistemas Operacionais
 </center>
