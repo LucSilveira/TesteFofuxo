@@ -12,3 +12,7 @@ Introdução à redes, hardware, virtualização e programação.
 ![](https://img.shields.io/badge/Configuração-E06661?logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/RAID-E06661?logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Conectividade-E06661?logoColor=white&style=for-the-badge)
+<br>
+![](https://img.shields.io/badge/Domínios-CA0100?logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Compartilhamento-CA0100?logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Backup-CA0100?logoColor=white&style=for-the-badge)
