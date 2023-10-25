@@ -25,7 +25,7 @@ Introdução à redes, hardware, virtualização e programação.
 
 ## Virtualização
 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+<a href="https://aws.amazon.com" target="_blank">
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40"/>
 </a>
 
