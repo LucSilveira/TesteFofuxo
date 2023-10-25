@@ -3,6 +3,8 @@ Introdução à redes, hardware, virtualização e programação.
 
 <br>
 
+<center>
+
 ## Sistemas Operacionais
 
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -16,3 +18,5 @@ Introdução à redes, hardware, virtualização e programação.
 ![](https://img.shields.io/badge/Domínios-CA0100?logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Compartilhamento-CA0100?logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Backup-CA0100?logoColor=white&style=for-the-badge)
+
+</center>
