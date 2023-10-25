@@ -2,7 +2,7 @@
 Introdução à redes, hardware, virtualização e programação.
 
 
-<div style="text-align: center;width: 100%;background-color: red;">
+<div style="width: 100%;margin: 0;padding:0">
   ## Sistemas Operacionais
-  <p>teste</p>
+  <p style="text-align: center;">teste</p>
 </div>
