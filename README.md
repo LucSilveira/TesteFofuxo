@@ -3,6 +3,10 @@ Introdução à redes, hardware, virtualização e programação.
 
 <br>
 
+[![](https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg?link=https://google.com)](https://google.com)
+
+<br>
+
 <center>
 
 ## Sistemas Operacionais
@@ -25,7 +29,7 @@ Introdução à redes, hardware, virtualização e programação.
 
 ## Virtualização
 
-<a href="https://aws.amazon.com" target="_blank">
+<a href="https://aws.amazon.com" target="_blank" style>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="ubuntu" width="40"/>
 </a>
 
