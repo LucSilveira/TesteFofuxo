@@ -4,45 +4,12 @@ Introdução à redes, hardware, virtualização e programação.
 <br>
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |
 
 <br>
 
-<div align="center" style="width: 100%;margin: 0;padding:0">
-  <div style="width: 50%">
-  
-  <p>Sistemas Operacionais</p>
-  
-  [![Ubuntu](https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg?link=https://google.com)](https://google.com)
-  [![Debian](https://www.vectorlogo.zone/logos/debian/debian-icon.svg?link=https://google.com)](https://google.com)
-  
-  ![](https://img.shields.io/badge/Instala%C3%A7%C3%A3o-E06661?logoColor=white&style=for-the-badge)
-  ![](https://img.shields.io/badge/Configuração-E06661?logoColor=white&style=for-the-badge)
-  ![](https://img.shields.io/badge/RAID-E06661?logoColor=white&style=for-the-badge)
-  ![](https://img.shields.io/badge/Conectividade-E06661?logoColor=white&style=for-the-badge)
-  <br>
-  ![](https://img.shields.io/badge/Domínios-CA0100?logoColor=white&style=for-the-badge)
-  ![](https://img.shields.io/badge/Compartilhamento-CA0100?logoColor=white&style=for-the-badge)
-  ![](https://img.shields.io/badge/Backup-CA0100?logoColor=white&style=for-the-badge)
-  
-  </div>
-  
-  <div style="width: 50%;">
-  
-  <p>Virtualização</p>
-  
-  [![Virtual Box](https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg?link=https://google.com)](https://google.com)
-  
-  ![](https://img.shields.io/badge/Instala%C3%A7%C3%A3o-E06661?logoColor=white&style=for-the-badge)
-  ![](https://img.shields.io/badge/Configuração-E06661?logoColor=white&style=for-the-badge)
-  ![](https://img.shields.io/badge/RAID-E06661?logoColor=white&style=for-the-badge)
-  ![](https://img.shields.io/badge/Conectividade-E06661?logoColor=white&style=for-the-badge)
-  <br>
-  ![](https://img.shields.io/badge/Domínios-CA0100?logoColor=white&style=for-the-badge)
-  ![](https://img.shields.io/badge/Compartilhamento-CA0100?logoColor=white&style=for-the-badge)
-  ![](https://img.shields.io/badge/Backup-CA0100?logoColor=white&style=for-the-badge)
-  
-  </div>
-</div>
+| [<div style="width: 50%"><p>Sistemas Operacionais</p>[![Ubuntu](https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg?link=https://google.com)](https://google.com)[![Debian](https://www.vectorlogo.zone/logos/debian/debian-icon.svg?link=https://google.com)](https://google.com)![](https://img.shields.io/badge/Instala%C3%A7%C3%A3o-E06661?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/Configuração-E06661?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/RAID-E06661?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/Conectividade-E06661?logoColor=white&style=for-the-badge)<br>![](https://img.shields.io/badge/Domínios-CA0100?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/Compartilhamento-CA0100?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/Backup-CA0100?logoColor=white&style=for-the-badge)</div> | [<div style="width: 50%;"><p>Virtualização</p>[![Virtual Box](https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg?link=https://google.com)](https://google.com)![](https://img.shields.io/badge/Instala%C3%A7%C3%A3o-E06661?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/Configuração-E06661?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/RAID-E06661?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/Conectividade-E06661?logoColor=white&style=for-the-badge)<br>![](https://img.shields.io/badge/Domínios-CA0100?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/Compartilhamento-CA0100?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/Backup-CA0100?logoColor=white&style=for-the-badge)</div> |
+| :---: | :---: |
 
 <center>
 
