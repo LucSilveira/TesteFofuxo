@@ -60,7 +60,7 @@ Introdução à redes, hardware, virtualização e programação.
 
 ## Programação
 
-[![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg?link=https://google.com)](https://google.com)
+[![Github](https://www.vectorlogo.zone/logos/github/github-tile.svg?link=https://google.com&width=200)](https://google.com)
 [![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg?link=https://google.com)](https://google.com)
 
 ![](https://img.shields.io/badge/Lógica_de_Programação-F3D485?logoColor=black&style=for-the-badge)
