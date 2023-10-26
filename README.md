@@ -4,9 +4,9 @@ Introdução à redes, hardware, virtualização e programação.
 <br>
 
 <div style="width: 100%;margin: 0;padding:0">
-  <p style="width: 46%">adad</p>
+  | <p style="width: 46%">adad</p> |
 
-  <p style="width: 50%">asdasd</p>
+  <p style="width: 50%">asdasd</p> |
 </div>
 
 <br>
