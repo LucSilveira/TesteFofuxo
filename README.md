@@ -4,7 +4,7 @@ Introdução à redes, hardware, virtualização e programação.
 <br>
 
 <div align="center" style="width: 100%;margin: 0;padding:0">
-  <div align="center" style="width: 50%">
+  <div style="width: 50%">
   
   <p>Sistemas Operacionais</p>
   
@@ -22,7 +22,7 @@ Introdução à redes, hardware, virtualização e programação.
   
   </div>
   
-  <div align="center" style="width: 50%;">
+  <div style="width: 50%;">
   
   <p>Virtualização</p>
   
