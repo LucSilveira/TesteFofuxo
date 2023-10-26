@@ -3,7 +3,7 @@ Introdução à redes, hardware, virtualização e programação.
 
 <br>
 
-<center>
+<div align="center">
 
 ## Sistemas Operacionais
 
@@ -19,9 +19,7 @@ Introdução à redes, hardware, virtualização e programação.
 ![](https://img.shields.io/badge/Compartilhamento-CA0100?logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Backup-CA0100?logoColor=white&style=for-the-badge)
 
-</center>
-
-<div align="center">
+</div> | <div align="center">
 
 ## Virtualização
 
