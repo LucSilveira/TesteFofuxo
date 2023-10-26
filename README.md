@@ -21,7 +21,7 @@ Introdução à redes, hardware, virtualização e programação.
 
 </center>
 
-<center>
+<div align="center">
 
 ## Virtualização
 
@@ -36,7 +36,7 @@ Introdução à redes, hardware, virtualização e programação.
 ![](https://img.shields.io/badge/Compartilhamento-CA0100?logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Backup-CA0100?logoColor=white&style=for-the-badge)
 
-</center>
+</div>
 
 <center>
 
