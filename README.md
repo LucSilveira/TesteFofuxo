@@ -3,8 +3,8 @@ Introdução à redes, hardware, virtualização e programação.
 
 <br>
 
-<div align="center">
-  <div align="center" style="width: 50%;">
+<div align="center" style="width: 100%;margin: 0;padding:0">
+  <div align="center" style="width: 50%">
   
   ## Sistemas Operacionais
   
