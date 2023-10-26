@@ -6,7 +6,7 @@ Introdução à redes, hardware, virtualização e programação.
 <div align="center" style="width: 100%;margin: 0;padding:0">
   <div align="center" style="width: 50%">
   
-  ## Sistemas Operacionais
+  <p>Sistemas Operacionais</p>
   
   [![Ubuntu](https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg?link=https://google.com)](https://google.com)
   [![Debian](https://www.vectorlogo.zone/logos/debian/debian-icon.svg?link=https://google.com)](https://google.com)
@@ -24,7 +24,7 @@ Introdução à redes, hardware, virtualização e programação.
   
   <div align="center" style="width: 50%;">
   
-  ## Virtualização
+  <p>Virtualização</p>
   
   [![Virtual Box](https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg?link=https://google.com)](https://google.com)
   
