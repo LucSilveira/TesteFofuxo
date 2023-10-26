@@ -3,8 +3,11 @@ Introdução à redes, hardware, virtualização e programação.
 
 <br>
 
-| [<sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
-| :---: | :---: | :---: |
+<div style="width: 100%;margin: 0;padding:0">
+  <img src="https://github-readme-stats.vercel.app/api?username=LucSilveira&theme=dracula" style="width: 46%">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucSilveira&theme=dracula" style="width: 50%">
+</div>
 
 <br>
 
