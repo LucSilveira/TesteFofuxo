@@ -6,7 +6,7 @@ Introdução à redes, hardware, virtualização e programação.
 | <div style="width:100%"><h2>Sistemas Operacionais</h2><br>[![Ubuntu](https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg?link=https://google.com)](https://google.com)[![Debian](https://www.vectorlogo.zone/logos/debian/debian-icon.svg?link=https://google.com)](https://google.com)<br><br>![](https://img.shields.io/badge/Instala%C3%A7%C3%A3o-E06661?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/Configuração-E06661?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/RAID-E06661?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/Conectividade-E06661?logoColor=white&style=for-the-badge)<br>![](https://img.shields.io/badge/Domínios-CA0100?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/Compartilhamento-CA0100?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/Backup-CA0100?logoColor=white&style=for-the-badge)</div> | <div style="width: 100%;"><h2>Virtualização</h2><br>[![Virtual Box](https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg?link=https://google.com)](https://google.com)<br><br>![](https://img.shields.io/badge/Instala%C3%A7%C3%A3o-E06661?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/Configuração-E06661?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/RAID-E06661?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/Conectividade-E06661?logoColor=white&style=for-the-badge)<br>![](https://img.shields.io/badge/Domínios-CA0100?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/Compartilhamento-CA0100?logoColor=white&style=for-the-badge)![](https://img.shields.io/badge/Backup-CA0100?logoColor=white&style=for-the-badge)</div> |
 | :------: | :------: |
 
-<center>
+<div align="center">
 
 ## Hardware & Redes
 
@@ -22,7 +22,7 @@ Introdução à redes, hardware, virtualização e programação.
 ![](https://img.shields.io/badge/Modelos_OSI_&_TCP/IP-4671BC?logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Server_físico-4671BC?logoColor=white&style=for-the-badge)
 
-</center>
+</div>
 
 <center>
 
