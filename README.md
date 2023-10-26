@@ -9,7 +9,6 @@ Introdução à redes, hardware, virtualização e programação.
 
 [![Ubuntu](https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg?link=https://google.com)](https://google.com)
 [![Debian](https://www.vectorlogo.zone/logos/debian/debian-icon.svg?link=https://google.com)](https://google.com)
-[![Windows](https://www.vectorlogo.zone/logos/debian/debian-icon.svg?link=https://google.com)](https://google.com)
 
 ![](https://img.shields.io/badge/Instala%C3%A7%C3%A3o-E06661?logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Configuração-E06661?logoColor=white&style=for-the-badge)
@@ -44,11 +43,11 @@ Introdução à redes, hardware, virtualização e programação.
 
 ## Hardware & Redes
 
-[![Virtual Box](https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg?link=https://google.com)](https://google.com)
-[![VM Ware](https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg?link=https://google.com)](https://google.com)
+[![Cisco](https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg?link=https://google.com)](https://google.com)
+[![Dell](https://www.vectorlogo.zone/logos/dell/dell-icon.svg?link=https://google.com)](https://google.com)
 
 ![](https://img.shields.io/badge/Switching-6BA1EB?logoColor=black&style=for-the-badge)
-![](https://img.shields.io/badge/Wi-Fi-6BA1EB?logoColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/Wi%-%Fi-6BA1EB?logoColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/Infraestrutura-6BA1EB?logoColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/Cabeamento-6BA1EB?logoColor=black&style=for-the-badge)
 <br>
@@ -63,7 +62,7 @@ Introdução à redes, hardware, virtualização e programação.
 ## Programação
 
 [![Github](https://www.vectorlogo.zone/logos/github/github-tile.svg?link=https://google.com)](https://google.com)
-[![Python](https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg?link=https://google.com)](https://google.com)
+[![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg?link=https://google.com)](https://google.com)
 
 ![](https://img.shields.io/badge/Lógica_de_Programação-F3D485?logoColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/Funções-F3D485?logoColor=black&style=for-the-badge)
@@ -88,7 +87,7 @@ Introdução à redes, hardware, virtualização e programação.
 
 <center>
 
-## IoT
+## Softs Skills
 
 
 ![](https://img.shields.io/badge/Trabalho_em_equipe-C07A9E?logoColor=black&style=for-the-badge)
