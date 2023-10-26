@@ -26,7 +26,6 @@ Introdução à redes, hardware, virtualização e programação.
 ## Virtualização
 
 [![Virtual Box](https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg?link=https://google.com)](https://google.com)
-[![](https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg?link=https://google.com)](https://google.com)
 
 ![](https://img.shields.io/badge/Instala%C3%A7%C3%A3o-E06661?logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Configuração-E06661?logoColor=white&style=for-the-badge)
@@ -47,7 +46,7 @@ Introdução à redes, hardware, virtualização e programação.
 [![Dell](https://www.vectorlogo.zone/logos/dell/dell-icon.svg?link=https://google.com)](https://google.com)
 
 ![](https://img.shields.io/badge/Switching-6BA1EB?logoColor=black&style=for-the-badge)
-![](https://img.shields.io/badge/Wi%-%Fi-6BA1EB?logoColor=black&style=for-the-badge)
+![](https://img.shields.io/badge/WiFi-6BA1EB?logoColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/Infraestrutura-6BA1EB?logoColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/Cabeamento-6BA1EB?logoColor=black&style=for-the-badge)
 <br>
@@ -94,7 +93,7 @@ Introdução à redes, hardware, virtualização e programação.
 ![](https://img.shields.io/badge/Técnicas_de_Apresentação-C07A9E?logoColor=black&style=for-the-badge)
 ![](https://img.shields.io/badge/Programação-C07A9E?logoColor=black&style=for-the-badge)
 <br>
-![](https://img.shields.io/badge/E-mail-A54E79?logoColor=white&style=for-the-badge)
+![](https://img.shields.io/badge/Email-A54E79?logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/LinkedIn-A54E79?logoColor=white&style=for-the-badge)
 ![](https://img.shields.io/badge/Currículo_profissional-A54E79?logoColor=white&style=for-the-badge)
 <br>
