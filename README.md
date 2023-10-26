@@ -3,7 +3,7 @@ Introdução à redes, hardware, virtualização e programação.
 
 <br>
 
-| <p style="width: 46%">adad</p> | <p style="width: 50%">asdasd</p> |
+|<p style="width: 46%">adad</p>|<p style="width: 50%">asdasd</p>|
 
 <br>
 
