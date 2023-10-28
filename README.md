@@ -9,7 +9,7 @@ Introdução à redes, hardware, virtualização e programação.
   
   [![Ubuntu](https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg?link=https://google.com)](https://google.com)
   [![Debian](https://www.vectorlogo.zone/logos/debian/debian-icon.svg?link=https://google.com)](https://google.com)
-  <br><br>
+  <br>
   ![](https://img.shields.io/badge/Instala%C3%A7%C3%A3o-E06661?logoColor=white&style=for-the-badge)
   ![](https://img.shields.io/badge/Configuração-E06661?logoColor=white&style=for-the-badge)
   ![](https://img.shields.io/badge/RAID-E06661?logoColor=white&style=for-the-badge)
@@ -27,9 +27,10 @@ Introdução à redes, hardware, virtualização e programação.
   <h2>Virtualização</h2>
   
   <br>
+  
   [![Virtual Box](https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg?link=https://google.com)](https://google.com)
   
-  <br><br>
+  <br>
   ![](https://img.shields.io/badge/Instala%C3%A7%C3%A3o-E06661?logoColor=white&style=for-the-badge)
   ![](https://img.shields.io/badge/Configuração-E06661?logoColor=white&style=for-the-badge)
   ![](https://img.shields.io/badge/RAID-E06661?logoColor=white&style=for-the-badge)
@@ -44,7 +45,7 @@ Introdução à redes, hardware, virtualização e programação.
 
 <br>
 <div align="center">
-  ## Hardware & Redes
+  <h2>Hardware & Redes</h2>
   
   [![Cisco](https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg?link=https://google.com)](https://google.com)
   [![Dell](https://www.vectorlogo.zone/logos/dell/dell-icon.svg?link=https://google.com)](https://google.com)
@@ -63,7 +64,7 @@ Introdução à redes, hardware, virtualização e programação.
 
 <br>
 <div align="center">
-  ## Programação
+  <h2>Programação</h2>
   
   [![Github](https://www.vectorlogo.zone/logos/github/github-tile.svg?link=https://google.com=150x150)](https://google.com)
   [![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg?link=https://google.com)](https://google.com)
@@ -75,7 +76,7 @@ Introdução à redes, hardware, virtualização e programação.
 
 <br>
 <div align="center">
-  ## IoT
+  <h2>IoT</h2>
   
   [![Arduino](https://www.vectorlogo.zone/logos/arduino/arduino-official.svg?link=https://google.com)](https://google.com)
   
@@ -88,7 +89,7 @@ Introdução à redes, hardware, virtualização e programação.
 </div>
 
 <div align="center">
-  ## Softs Skills
+  <h2>Softs Skills</h2>
   
   ![](https://img.shields.io/badge/Trabalho_em_equipe-C07A9E?logoColor=black&style=for-the-badge)
   ![](https://img.shields.io/badge/Técnicas_de_Apresentação-C07A9E?logoColor=black&style=for-the-badge)
