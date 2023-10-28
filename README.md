@@ -5,8 +5,6 @@ Introdução à redes, hardware, virtualização e programação.
 <div align="center">
   <h2>Sistemas Operacionais</h2>
   
-  <br>
-  
   [![Ubuntu](https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg?link=https://google.com)](https://google.com)
   [![Debian](https://www.vectorlogo.zone/logos/debian/debian-icon.svg?link=https://google.com)](https://google.com)
   <br>
@@ -14,9 +12,7 @@ Introdução à redes, hardware, virtualização e programação.
   ![](https://img.shields.io/badge/Configuração-E06661?logoColor=white&style=for-the-badge)
   ![](https://img.shields.io/badge/RAID-E06661?logoColor=white&style=for-the-badge)
   ![](https://img.shields.io/badge/Conectividade-E06661?logoColor=white&style=for-the-badge)
-  
   <br>
-  
   ![](https://img.shields.io/badge/Domínios-CA0100?logoColor=white&style=for-the-badge)
   ![](https://img.shields.io/badge/Compartilhamento-CA0100?logoColor=white&style=for-the-badge)
   ![](https://img.shields.io/badge/Backup-CA0100?logoColor=white&style=for-the-badge)
@@ -26,18 +22,13 @@ Introdução à redes, hardware, virtualização e programação.
 <div align="center">
   <h2>Virtualização</h2>
   
-  <br>
-  
   [![Virtual Box](https://www.vectorlogo.zone/logos/virtualbox/virtualbox-icon.svg?link=https://google.com)](https://google.com)
-  
   <br>
   ![](https://img.shields.io/badge/Instala%C3%A7%C3%A3o-E06661?logoColor=white&style=for-the-badge)
   ![](https://img.shields.io/badge/Configuração-E06661?logoColor=white&style=for-the-badge)
   ![](https://img.shields.io/badge/RAID-E06661?logoColor=white&style=for-the-badge)
   ![](https://img.shields.io/badge/Conectividade-E06661?logoColor=white&style=for-the-badge)
-  
   <br>
-  
   ![](https://img.shields.io/badge/Domínios-CA0100?logoColor=white&style=for-the-badge)
   ![](https://img.shields.io/badge/Compartilhamento-CA0100?logoColor=white&style=for-the-badge)
   ![](https://img.shields.io/badge/Backup-CA0100?logoColor=white&style=for-the-badge)
@@ -49,14 +40,12 @@ Introdução à redes, hardware, virtualização e programação.
   
   [![Cisco](https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg?link=https://google.com)](https://google.com)
   [![Dell](https://www.vectorlogo.zone/logos/dell/dell-icon.svg?link=https://google.com)](https://google.com)
-  
+  <br>
   ![](https://img.shields.io/badge/Switching-6BA1EB?logoColor=black&style=for-the-badge)
   ![](https://img.shields.io/badge/WiFi-6BA1EB?logoColor=black&style=for-the-badge)
   ![](https://img.shields.io/badge/Infraestrutura-6BA1EB?logoColor=black&style=for-the-badge)
   ![](https://img.shields.io/badge/Cabeamento-6BA1EB?logoColor=black&style=for-the-badge)
-  
   <br>
-  
   ![](https://img.shields.io/badge/Topologias-4671BC?logoColor=white&style=for-the-badge)
   ![](https://img.shields.io/badge/Modelos_OSI_&_TCP/IP-4671BC?logoColor=white&style=for-the-badge)
   ![](https://img.shields.io/badge/Server_físico-4671BC?logoColor=white&style=for-the-badge)
@@ -68,7 +57,7 @@ Introdução à redes, hardware, virtualização e programação.
   
   [![Github](https://www.vectorlogo.zone/logos/github/github-tile.svg?link=https://google.com=150x150)](https://google.com)
   [![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg?link=https://google.com)](https://google.com)
-  
+  <br>
   ![](https://img.shields.io/badge/Lógica_de_Programação-F3D485?logoColor=black&style=for-the-badge)
   ![](https://img.shields.io/badge/Funções-F3D485?logoColor=black&style=for-the-badge)
   ![](https://img.shields.io/badge/GitHub-F3D485?logoColor=black&style=for-the-badge)
@@ -79,7 +68,7 @@ Introdução à redes, hardware, virtualização e programação.
   <h2>IoT</h2>
   
   [![Arduino](https://www.vectorlogo.zone/logos/arduino/arduino-official.svg?link=https://google.com)](https://google.com)
-  
+  <br>
   ![](https://img.shields.io/badge/Fundamentos-79A2AE?logoColor=black&style=for-the-badge)
   ![](https://img.shields.io/badge/Configuração-79A2AE?logoColor=black&style=for-the-badge)
   ![](https://img.shields.io/badge/Programação-79A2AE?logoColor=black&style=for-the-badge)
